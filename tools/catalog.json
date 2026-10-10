@@ -5,22 +5,22 @@
   {
    "category": "Edit",
    "channel": "stable",
-   "description": "Công cụ THỬ NGHIỆM D-008 — chỉ dùng để kiểm tra hiển thị công cụ từ xa",
-   "download_url": "https://github.com/EditKhongKho/ekk-unified-d008-rehearsal/releases/download/rehearsal/ekk-d008-rehearsal-1.0.0.zip",
+   "description": "Công cụ THỬ NGHIỆM EKK D-008 Rehearsal (TEST) — kiểm tra staging GitHub (D-008)",
+   "download_url": "https://github.com/EditKhongKho/ekk-publisher-staging-rehearsal/releases/download/staging-rehearsal/ekk-d008-rehearsal-1.0.1.zip",
    "install_contract": "ekk.package/1",
    "kind": "lua",
    "name": "EKK D-008 Rehearsal (TEST)",
    "platform": "macos",
    "resolve_compatibility": "19+",
-   "sha256": "2aa43bdddc457e9801bdba8c59b645c824a30448b3ed81c71e3262d5bc789b86",
-   "size": 785,
+   "sha256": "fc72b041a1b1c186b9f46e88aec470d9ea9aed866d3664f47573ceed96e803ad",
+   "size": 10115,
    "thumbnail": {
-    "sha256": "b261c7070314fb0074ac26cf37f0d494c66fa1ff284cd7967cebbe98c92eaf0f",
-    "size": 1857,
-    "url": "https://github.com/EditKhongKho/ekk-unified-d008-rehearsal/releases/download/rehearsal/ekk-d008-rehearsal.png"
+    "sha256": "92903a65696715dbe8ff78df7178633e5e403c2ab7eb78045f4e2847fe15bfa9",
+    "size": 8692,
+    "url": "https://github.com/EditKhongKho/ekk-publisher-staging-rehearsal/releases/download/staging-rehearsal/ekk-d008-rehearsal-1.0.1.png"
    },
    "tool_id": "ekk-d008-rehearsal",
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   {
    "category": "Edit",
