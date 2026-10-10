@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T15:08:34Z",
+ "generated": "2026-10-11T00:00:00Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -20,6 +20,26 @@
     "url": "https://github.com/EditKhongKho/ekk-unified-d008-rehearsal/releases/download/rehearsal/ekk-d008-rehearsal.png"
    },
    "tool_id": "ekk-d008-rehearsal",
+   "version": "1.0.0"
+  },
+  {
+   "category": "Edit",
+   "channel": "stable",
+   "description": "Công cụ THỬ NGHIỆM EKK Staging New — kiểm tra staging GitHub (D-008)",
+   "download_url": "https://github.com/EditKhongKho/ekk-publisher-staging-rehearsal/releases/download/staging-rehearsal/ekk-staging-new-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "kind": "lua",
+   "name": "EKK Staging New",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "1ce495181e74abecfcff57b655bb436ae99ec040995ed2bba181f3ad59d2c742",
+   "size": 13947,
+   "thumbnail": {
+    "sha256": "1d017c25ec29580048047a1941ef516602d82e1ecc3a78f5aba6611caff0e5b0",
+    "size": 12569,
+    "url": "https://github.com/EditKhongKho/ekk-publisher-staging-rehearsal/releases/download/staging-rehearsal/ekk-staging-new-1.0.0.jpg"
+   },
+   "tool_id": "ekk-staging-new",
    "version": "1.0.0"
   }
  ]
